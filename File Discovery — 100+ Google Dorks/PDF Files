@@ -1,12 +1,12 @@
-filetype:pdf "confidential" site:TARGET
-filetype:pdf "internal use only" site:TARGET
-filetype:pdf "not for distribution" site:TARGET
-filetype:pdf "salary" site:TARGET
-filetype:pdf "SSN" site:TARGET
-filetype:pdf "passport" site:TARGET
-filetype:pdf "curriculum vitae" site:TARGET
-filetype:pdf "resume" site:TARGET
-filetype:pdf "report" site:TARGET
-filetype:pdf "audit" site:TARGET
+```text filetype:pdf "confidential" site:[TARGET]
+filetype:pdf "internal use only" site:[TARGET]
+filetype:pdf "not for distribution" site:[TARGET]
+filetype:pdf "salary" site:[TARGET]
+filetype:pdf "SSN" site:[TARGET]
+filetype:pdf "passport" site:[TARGET]
+filetype:pdf "curriculum vitae" site:[TARGET]
+filetype:pdf "resume" site:[TARGET]
+filetype:pdf "report" site:[TARGET]
+filetype:pdf "audit" site:[TARGET]
 
 ## (10 examples — you can expand with keywords like “password”, “credentials”, “financial”, “restricted”, etc., to reach 30+ PDFs.)
