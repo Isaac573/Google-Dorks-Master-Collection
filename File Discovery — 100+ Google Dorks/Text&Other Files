@@ -1,0 +1,13 @@
+filetype:txt "password" site:[TARGET]
+filetype:txt "confidential" site:[TARGET]
+filetype:txt "token" site:[TARGET]
+filetype:txt "api_key" site:[TARGET]
+filetype:txt "ssh" site:[TARGET]
+filetype:txt "ftp" site:[TARGET]
+filetype:txt "email" site:[TARGET]
+filetype:txt "credentials" site:[TARGET]
+filetype:txt "database" site:[TARGET]
+filetype:txt "config" site:[TARGET]
+
+
+##  (10 examples — expand with variations like .csv, .rtf, .json, .yaml to reach 20+.)
