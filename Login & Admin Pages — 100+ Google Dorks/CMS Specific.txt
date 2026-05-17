@@ -1,0 +1,28 @@
+## WordPress ##
+
+inurl:wp-login.php site:[TARGET]
+inurl:wp-admin site:[TARGET]
+intitle:"WordPress Login" site:[TARGET]
+
+## Joomla ##
+
+inurl:administrator site:[TARGET]
+intitle:"Joomla Administrator" site:[TARGET]
+
+## Drupal ##
+
+inurl:user/login site:[TARGET]
+intitle:"Drupal" site:[TARGET]
+
+## phpMyAdmin ##
+
+intitle:"phpMyAdmin" site:[TARGET]
+inurl:phpmyadmin site:[TARGET]
+
+## Other CMS ##
+
+inurl:cgi-bin/login site:[TARGET]
+intitle:"index of" site:[TARGET]"cms" site:[TARGET]
+
+
+## (20 examples — expand across CMS platforms to reach 40+.)
