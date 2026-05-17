@@ -1,0 +1,13 @@
+filetype:doc "confidential" site:[TARGET]
+filetype:docx "password" site:[TARGET]
+filetype:docx "internal" site:[TARGET]
+filetype:docx "project plan" site:[TARGET]
+filetype:docx "employee list" site:[TARGET]
+filetype:docx "contract" site:[TARGET]
+filetype:docx "nda" site:[TARGET]
+filetype:docx "proposal" site:[TARGET]
+filetype:docx "minutes of meeting" site:[TARGET]
+filetype:docx "strategy" site:[TARGET]
+
+
+##  (10 examples — expand with HR, legal, finance, technical keywords to reach 30+ DOC/DOCX.)
