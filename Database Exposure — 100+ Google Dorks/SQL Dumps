@@ -1,0 +1,13 @@
+filetype:sql "insert into" site:[TARGET]
+filetype:sql "create table" site:[TARGET]
+filetype:sql "password" site:[TARGET]
+filetype:sql "confidential" site:[TARGET]
+filetype:sql "user" site:[TARGET]
+filetype:sql "admin" site:[TARGET]
+filetype:sql "backup" site:[TARGET]
+filetype:sql "dump" site:[TARGET]
+filetype:sql "database" site:[TARGET]
+filetype:sql "schema" site:[TARGET]
+
+
+##  (10 examples — expand with keywords like “login”, “credentials”, “account”, “config" site:[TARGET]to reach 30+ SQL dorks.)
