@@ -1,0 +1,13 @@
+filetype:mdb "password" site:[TARGET]
+filetype:mdb "confidential" site:[TARGET]
+filetype:mdb "user" site:[TARGET]
+filetype:mdb "employee" site:[TARGET]
+filetype:mdb "account" site:[TARGET]
+filetype:mdb "finance" site:[TARGET]
+filetype:mdb "backup" site:[TARGET]
+filetype:mdb "contacts" site:[TARGET]
+filetype:mdb "data" site:[TARGET]
+filetype:mdb "login" site:[TARGET]
+
+
+##  (10 examples — expand with HR, finance, and IT keywords to reach 20+ MDB dorks.)
