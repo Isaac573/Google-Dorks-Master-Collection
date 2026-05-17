@@ -1,0 +1,13 @@
+intitle:"MongoDB" "index of" site:[TARGET]
+intitle:"CouchDB" site:[TARGET]
+intitle:"Elasticsearch" site:[TARGET]
+intitle:"Redis" site:[TARGET]
+intitle:"Firebase" site:[TARGET]
+intitle:"Supabase" site:[TARGET]
+intitle:"Postgres" site:[TARGET]
+intitle:"MariaDB" site:[TARGET]
+intitle:"Neo4j" site:[TARGET]
+intitle:"GraphQL" site:[TARGET]
+
+
+##  (10 examples — expand with exposed dashboards, ports, and configs to reach 20+ NoSQL dorks.)
