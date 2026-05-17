@@ -1,0 +1,13 @@
+filetype:xls "email" site:[TARGET]
+filetype:xls "phone" site:[TARGET]
+filetype:xls "contact" site:[TARGET]
+filetype:xls "salary" site:[TARGET]
+filetype:xls "budget" site:[TARGET]
+filetype:xls "accounts" site:[TARGET]
+filetype:xls "password" site:[TARGET]
+filetype:xls "financial" site:[TARGET]
+filetype:xls "inventory" site:[TARGET]
+filetype:xls "schedule" site:[TARGET]
+
+
+##  (10 examples — expand with finance, HR, project, and IT keywords to reach 30+ XLS.)
