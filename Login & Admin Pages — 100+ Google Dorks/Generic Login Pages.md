@@ -1,0 +1,14 @@
+```text
+intitle:"login" site:[TARGET]
+inurl:login site:[TARGET]
+inurl:signin site:[TARGET]
+intitle:"sign in" site:[TARGET]
+inurl:portal/login site:[TARGET]
+intitle:"index of" "login" site:[TARGET]
+inurl:user/login site:[TARGET]
+intitle:"secure login" site:[TARGET]
+inurl:auth site:[TARGET]
+inurl:account/login site:[TARGET]
+
+```
+##  (10 examples — expand with variations like “signin”, “auth”, “portal”, “secure”, etc. to reach 30+.)
