@@ -1,0 +1,13 @@
+intitle:"vpn login" site:[TARGET]
+intitle:"remote login" site:[TARGET]
+intitle:"ssh login" site:[TARGET]
+intitle:"ftp login" site:[TARGET]
+intitle:"router login" site:[TARGET]
+intitle:"switch login" site:[TARGET]
+intitle:"firewall login" site:[TARGET]
+intitle:"database login" site:[TARGET]
+intitle:"cloud login" site:[TARGET] 
+intitle:"erp login" site:[TARGET]
+
+
+##  (10 examples — expand with IT services, routers, firewalls, VPNs to reach 20+.)
