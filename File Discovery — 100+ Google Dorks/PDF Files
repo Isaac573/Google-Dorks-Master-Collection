@@ -1,4 +1,4 @@
-```text filetype:pdf "confidential" site:[TARGET]
+filetype:pdf "confidential" site:[TARGET]
 filetype:pdf "internal use only" site:[TARGET]
 filetype:pdf "not for distribution" site:[TARGET]
 filetype:pdf "salary" site:[TARGET]
