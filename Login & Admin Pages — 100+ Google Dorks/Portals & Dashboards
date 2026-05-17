@@ -1,0 +1,13 @@
+inurl:portal site:[TARGET]
+intitle:"portal login" site:[TARGET]
+inurl:dashboard site:[TARGET]
+intitle:"dashboard login" site:[TARGET]
+inurl:controlpanel site:[TARGET]
+intitle:"webmail login" site:[TARGET]
+inurl:cpanel site:[TARGET]
+intitle:"hosting control panel" site:[TARGET]
+inurl:admin/dashboard site:[TARGET]
+intitle:"index of" site:[TARGET]"dashboard" site:[TARGET]
+
+
+##  (10 examples — expand with hosting, webmail, ERP, CRM dashboards to reach 30+.)
