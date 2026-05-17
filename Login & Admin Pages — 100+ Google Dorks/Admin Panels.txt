@@ -1,0 +1,13 @@
+inurl:admin site:[TARGET]
+inurl:admin/login site:[TARGET]
+intitle:"admin panel" site:[TARGET]
+inurl:wp-admin site:[TARGET]
+inurl:administrator site:[TARGET]
+inurl:dashboard site:[TARGET]
+intitle:"control panel" site:[TARGET]
+inurl:admin.php site:[TARGET]
+inurl:admin/index.php site:[TARGET]
+intitle:"index of" "admin" site:[TARGET]
+
+
+##  (10 examples — expand with CMS‑specific admin URLs to reach 30+.)
