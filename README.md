@@ -28,7 +28,7 @@ Optionally add `site:example.com` to restrict results to a specific authorised d
 ```text
 filetype:pdf "confidential" site:[Target-Company].in
 ---
-
+```
 ## ⚠️ Professional Disclaimer & Ethical Charter
 > **CRITICAL NOTICE:** This repository is compiled and maintained strictly for defensive information security research, educational applications, authorised Vulnerability Assessment and Penetration Testing (VAPT) workflows, and proactive cyber patrolling and threat intelligence profiling. 
 > 
