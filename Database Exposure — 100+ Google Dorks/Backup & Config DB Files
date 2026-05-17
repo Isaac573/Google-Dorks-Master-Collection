@@ -1,0 +1,13 @@
+filetype:bak "database" site:[TARGET]
+filetype:backup "sql" site:[TARGET]
+filetype:old "db" site:[TARGET]
+filetype:save "sql" site:[TARGET]
+filetype:dump "mysql" site:[TARGET]
+filetype:gz "backup" site:[TARGET]
+filetype:tar "db" site:[TARGET]
+filetype:zip "database" site:[TARGET]
+filetype:7z "sql" site:[TARGET]
+filetype:rar "db" site:[TARGET]
+
+
+##  (10 examples — expand with compressed formats and keywords to reach 20+.)
