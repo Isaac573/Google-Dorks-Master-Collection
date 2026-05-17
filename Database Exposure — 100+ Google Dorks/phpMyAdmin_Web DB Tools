@@ -1,0 +1,13 @@
+intitle:"phpMyAdmin" site:[TARGET]
+inurl:phpmyadmin site:[TARGET]
+intitle:"MySQL dump" site:[TARGET]
+intitle:"SQL dump" site:[TARGET]
+intitle:"phpPgAdmin" site:[TARGET]
+intitle:"Adminer" site:[TARGET]
+intitle:"DB admin" site:[TARGET]
+intitle:"database administration" site:[TARGET]
+intitle:"index of" "phpMyAdmin" site:[TARGET]
+intitle:"index of" "Adminer" site:[TARGET]
+
+
+##  (10 examples — expand with variations across MySQL, PostgreSQL, Adminer to reach 20+.)
