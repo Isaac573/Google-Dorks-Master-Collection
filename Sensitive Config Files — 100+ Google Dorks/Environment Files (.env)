@@ -1,0 +1,13 @@
+filetype:env "DB_PASSWORD" site:[TARGET]
+filetype:env "SECRET_KEY" site:[TARGET]
+filetype:env "AWS_SECRET" site:[TARGET]
+filetype:env "API_KEY" site:[TARGET]
+filetype:env "TOKEN" site:[TARGET]
+filetype:env "MAIL_PASSWORD" site:[TARGET]
+filetype:env "SMTP" site:[TARGET]
+filetype:env "CLOUD_SECRET" site:[TARGET]
+filetype:env "PRIVATE_KEY" site:[TARGET]
+filetype:env "DATABASE_URL" site:[TARGET]
+
+
+##  (10 examples — expand with variations like ACCESS_KEY, OAUTH, JWT, etc. to reach 30+.)
