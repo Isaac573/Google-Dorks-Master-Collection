@@ -2,7 +2,7 @@
 
 ## 🔎 Overview
 A curated repository of **600+ Google Dorking queries** for OSINT, vulnerability assessment, and defensive threat intelligence.  
-Organized into 7 categories, each with 100+ entries.
+Organised into 7 categories, each with 100+ entries.
 
 ---
 
@@ -22,8 +22,14 @@ Organized into 7 categories, each with 100+ entries.
 
 ## 🚀 Quick Start
 Copy any query and paste it into Google search.  
-Optionally add `site:example.com` to restrict results to a specific authorized domain.
+Optionally add `site:example.com` to restrict results to a specific authorised domain.
 
 **Example:**
 ```text
 filetype:pdf "confidential" site:[Target-Company].in
+---
+
+## ⚠️ Professional Disclaimer & Ethical Charter
+> **CRITICAL NOTICE:** This repository is compiled and maintained strictly for defensive information security research, educational applications, authorised Vulnerability Assessment and Penetration Testing (VAPT) workflows, and proactive cyber patrolling and threat intelligence profiling. 
+> 
+> Utilising these advanced query structures to isolate unpatched systems or harvest sensitive data without explicit, signed administrative authorisation from the asset owner is strictly unethical. Operational data research parameters include reference attributions to public security community databases, including Proviesec intelligence feeds.
