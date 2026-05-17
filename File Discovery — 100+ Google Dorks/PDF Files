@@ -1,0 +1,12 @@
+filetype:pdf "confidential"
+filetype:pdf "internal use only"
+filetype:pdf "not for distribution"
+filetype:pdf "salary"
+filetype:pdf "SSN"
+filetype:pdf "passport"
+filetype:pdf "curriculum vitae"
+filetype:pdf "resume"
+filetype:pdf "report"
+filetype:pdf "audit"
+
+## (10 examples — you can expand with keywords like “password”, “credentials”, “financial”, “restricted”, etc., to reach 30+ PDFs.)
