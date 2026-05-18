@@ -1,0 +1,13 @@
+filetype:xml "configuration" site:[TARGET]
+filetype:xml "database" site:[TARGET]
+filetype:xml "password" site:[TARGET]
+filetype:xml "user" site:[TARGET]
+filetype:xml "auth" site:[TARGET]
+filetype:xml "settings" site:[TARGET]
+filetype:xml "backup" site:[TARGET]
+filetype:xml "system" site:[TARGET]
+filetype:xml "token" site:[TARGET]
+filetype:xml "secret" site:[TARGET]
+
+
+##  (10 examples — expand with ERP, CRM, and app configs to reach 20+.)
