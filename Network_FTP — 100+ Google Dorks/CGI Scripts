@@ -1,0 +1,13 @@
+inurl:/cgi-bin/ site:[TARGET]
+intitle:"index of" cgi-bin site:[TARGET]
+inurl:cgi-bin/login site:[TARGET]
+inurl:cgi-bin/test site:[TARGET]
+inurl:cgi-bin/admin site:[TARGET]
+inurl:cgi-bin/register site:[TARGET]
+inurl:cgi-bin/cgiwrap site:[TARGET]
+inurl:cgi-bin/cgi site:[TARGET]
+inurl:cgi-bin/cgi.pl site:[TARGET]
+inurl:cgi-bin/cgi.exe site:[TARGET]
+
+
+##  (10 examples — expand with variations like “guestbook”, “formmail”, “counter" to reach 20+.)
