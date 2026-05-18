@@ -1,0 +1,13 @@
+filetype:pdf "organization chart" site:[TARGET]
+filetype:doc "employee handbook" site:[TARGET]
+filetype:xls "salary" site:[TARGET]
+filetype:pdf "meeting minutes" site:[TARGET]
+filetype:docx "project plan" site:[TARGET]
+filetype:pdf "audit report" site:[TARGET]
+filetype:txt "passwords" site:[TARGET]
+filetype:csv "accounts" site:[TARGET]
+filetype:pdf "financial report" site:[TARGET]
+filetype:doc "confidential" site:[TARGET]
+
+
+##  (10 examples — expand with HR, finance, IT, and legal keywords to reach 20+.)
