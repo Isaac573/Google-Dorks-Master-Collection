@@ -1,0 +1,13 @@
+filetype:json "api_key" site:[TARGET]
+filetype:json "token" site:[TARGET]
+filetype:json "secret" site:[TARGET]
+filetype:json "credentials" site:[TARGET]
+filetype:json "config" site:[TARGET]
+filetype:json "auth" site:[TARGET]
+filetype:json "password" site:[TARGET]
+filetype:json "firebase" site:[TARGET]
+filetype:json "mongodb" site:[TARGET]
+filetype:json "elastic" site:[TARGET]
+
+
+##  (10 examples — expand with cloud services and devops configs to reach 20+.)
