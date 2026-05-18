@@ -1,0 +1,13 @@
+filetype:old "config" site:[TARGET]
+filetype:old "database" site:[TARGET]
+filetype:old "password" site:[TARGET]
+filetype:old "system" site:[TARGET]
+filetype:old "backup" site:[TARGET]
+filetype:save "sql" site:[TARGET]
+filetype:save "db" site:[TARGET]
+filetype:save "config" site:[TARGET]
+filetype:save "auth" site:[TARGET]
+filetype:save "credentials" site:[TARGET]
+
+
+##  (10 examples — expand with IT/HR/finance keywords to reach 20+.)
