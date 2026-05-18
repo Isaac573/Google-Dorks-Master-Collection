@@ -8,7 +8,7 @@
 
 ## 🛡️ README Note
  
-# Login & Admin Dorks
+### Login & Admin Dorks
 These queries help identify exposed login portals, admin dashboards, and CMS panels.
 
 ## ⚠️ Disclaimer: For educational and ethical use only. Do not use against systems without authorisation.
