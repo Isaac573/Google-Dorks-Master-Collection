@@ -1,0 +1,13 @@
+"Server at" "port" site:[TARGET]
+intitle:"index of" smtp site:[TARGET]
+intitle:"index of" pop3 site:[TARGET]
+intitle:"index of" imap site:[TARGET]
+intitle:"index of" snmp site:[TARGET]
+intitle:"index of" dns site:[TARGET]
+intitle:"index of" dhcp site:[TARGET]
+intitle:"index of" ldap site:[TARGET]
+intitle:"index of" nfs site:[TARGET]
+intitle:"index of" smb site:[TARGET]
+
+
+##  (10 examples — expand with other protocols to reach 20+.)
