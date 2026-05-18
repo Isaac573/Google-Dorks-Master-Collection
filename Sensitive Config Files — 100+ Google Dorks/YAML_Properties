@@ -1,0 +1,13 @@
+filetype:yaml "password" site:[TARGET]
+filetype:yaml "secret" site:[TARGET]
+filetype:yaml "token" site:[TARGET]
+filetype:yaml "config" site:[TARGET]
+filetype:yaml "database" site:[TARGET]
+filetype:yaml "auth" site:[TARGET]
+filetype:properties "password" site:[TARGET]
+filetype:properties "secret" site:[TARGET]
+filetype:properties "config" site:[TARGET]
+filetype:properties "database" site:[TARGET]
+
+
+##  (10 examples — expand with CI/CD, Kubernetes, Docker configs to reach 20+.)
