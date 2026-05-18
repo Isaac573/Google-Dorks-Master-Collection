@@ -1,0 +1,13 @@
+site:pastebin.com "password" site:[TARGET]
+site:pastebin.com "email" site:[TARGET]
+site:pastebin.com "token" site:[TARGET]
+site:pastebin.com "api_key" site:[TARGET]
+site:pastebin.com "confidential" site:[TARGET]
+site:pastebin.com "database" site:[TARGET]
+site:pastebin.com "dump" site:[TARGET]
+site:pastebin.com "login" site:[TARGET]
+site:pastebin.com "credentials" site:[TARGET]
+site:pastebin.com "config" site:[TARGET]
+
+
+##  (10 examples — expand with “ftp”, “ssh”, “vpn”, “cloud" to reach 20+.)
