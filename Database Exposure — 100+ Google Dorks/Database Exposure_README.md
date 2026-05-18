@@ -8,7 +8,7 @@
 
 ## 🛡️ README Note
 
-# Database Exposure Dorks
+### Database Exposure Dorks
 These queries help identify exposed database dumps, admin panels, and backup files.
 
 ## ⚠️ Disclaimer: For educational and ethical use only. Do not use against systems without authorisation.
