@@ -1,0 +1,13 @@
+filetype:log "error" site:[TARGET]
+filetype:log "unauthorized" site:[TARGET]
+filetype:log "failed login" site:[TARGET]
+filetype:log "debug" site:[TARGET]
+filetype:log "warning" site:[TARGET]
+filetype:log "critical" site:[TARGET]
+filetype:log "exception" site:[TARGET]
+filetype:log "stack trace" site:[TARGET]
+filetype:log "access" site:[TARGET]
+filetype:log "audit" site:[TARGET]
+
+
+##  (10 examples — expand with variations like “security”, “system”, “application”, “server”, “firewall" to reach 30+.)
