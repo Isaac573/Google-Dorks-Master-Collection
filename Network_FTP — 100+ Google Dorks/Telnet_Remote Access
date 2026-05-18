@@ -1,0 +1,13 @@
+intitle:"telnet" site:[TARGET]
+intitle:"index of" telnet site:[TARGET]
+intitle:"ssh login" site:[TARGET]
+intitle:"vpn login" site:[TARGET]
+intitle:"remote login" site:[TARGET]
+intitle:"remote desktop" site:[TARGET]
+intitle:"rdp login" site:[TARGET]
+intitle:"index of" rdp site:[TARGET]
+intitle:"index of" vnc site:[TARGET]
+intitle:"index of" ssh site:[TARGET]
+
+
+##  (10 examples — expand with remote access services to reach 20+.)
