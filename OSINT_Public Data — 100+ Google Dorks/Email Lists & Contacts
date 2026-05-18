@@ -1,0 +1,13 @@
+filetype:xls "email list" site:[TARGET]
+filetype:csv "email" site:[TARGET]
+filetype:txt "emails" site:[TARGET]
+filetype:xls "contacts" site:[TARGET]
+filetype:csv "phone" site:[TARGET]
+filetype:doc "contact list" site:[TARGET]
+filetype:pdf "directory" site:[TARGET]
+intitle:"index of" contacts site:[TARGET]
+intitle:"index of" email site:[TARGET]
+filetype:vcf
+
+
+##  (10 examples — expand with HR, marketing, and CRM keywords to reach 30+.)
