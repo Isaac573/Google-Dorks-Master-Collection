@@ -1,0 +1,13 @@
+intitle:"router login" site:[TARGET]
+intitle:"switch login" site:[TARGET]
+intitle:"firewall login" site:[TARGET]
+intitle:"index of" router site:[TARGET]
+intitle:"index of" firewall site:[TARGET]
+"Router Configuration" site:[TARGET]
+"Firewall Configuration" site:[TARGET]
+"Switch Configuration" site:[TARGET]
+intitle:"index of" network site:[TARGET]
+intitle:"index of" cisco site:[TARGET]
+
+
+##  (10 examples — expand with vendor names like Cisco, Juniper, Netgear, MikroTik to reach 20+.)
