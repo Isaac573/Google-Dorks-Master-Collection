@@ -1,0 +1,13 @@
+intitle:"index of" ftp site:[TARGET]
+inurl:ftp site:[TARGET]
+intitle:"ftp server" site:[TARGET]
+intitle:"index of" "pub" site:[TARGET]
+intitle:"index of" "incoming" site:[TARGET]
+intitle:"index of" "uploads" site:[TARGET]
+intitle:"index of" "downloads" site:[TARGET]
+intitle:"index of" "ftpdata" site:[TARGET]
+intitle:"index of" "ftpfiles" site:[TARGET]
+intitle:"index of" "ftproot" site:[TARGET]
+
+
+##  (10 examples — expand with variations like “music”, “video”, “documents”, “backup” to reach 30+.)
