@@ -1,0 +1,68 @@
+# ⚠️ Disclaimer
+# This repository is for educational and ethical use only.
+# Do not use these queries against systems without explicit authorization.
+# Always follow responsible disclosure practices.
+#
+# Copy any query below and paste into Google.
+# Example:
+# filetype:pdf "confidential" site:[Target]
+#
+# ------------------------------------------------------------
+
+
+
+
+Here’s how your master file should look — one query per line, ready to copy‑paste. I’ll give you a **sample from each category**; you can expand to 600+ by following the same format.
+
+```text
+# 📁 File Discovery
+filetype:pdf "confidential" site:[TARGET]
+filetype:docx "password" site:[TARGET]
+filetype:xls "email" site:[TARGET]
+filetype:ppt "internal" site:[TARGET]
+filetype:txt "api_key" site:[TARGET]
+
+# 🔒 Login & Admin Pages
+intitle:"login" site:[TARGET]
+inurl:wp-login.php site:[TARGET]
+inurl:admin/login site:[TARGET]
+intitle:"vpn login" site:[TARGET]
+intitle:"dashboard login" site:[TARGET]
+
+# 🗄️ Database Exposure
+filetype:sql "insert into" site:[TARGET]
+filetype:mdb "password" site:[TARGET]
+intitle:"MongoDB" "index of" site:[TARGET]
+intitle:"MySQL dump" site:[TARGET]
+filetype:bak "database" site:[TARGET]
+
+# 🛡️ Config Files
+filetype:env "DB_PASSWORD" site:[TARGET]
+filetype:ini "mailserver" site:[TARGET]
+filetype:xml "configuration" site:[TARGET]
+filetype:json "api_key" site:[TARGET]
+filetype:yaml "secret" site:[TARGET]
+
+# 🗂️ Logs & Backups
+filetype:log "unauthorized" site:[TARGET]
+filetype:log "failed login" site:[TARGET]
+filetype:bak "config" site:[TARGET]
+filetype:old "database" site:[TARGET]
+filetype:zip "backup" site:[TARGET]
+
+# 🌐 OSINT / Public Data
+intitle:"curriculum vitae" site:[TARGET]
+filetype:xls "email list" site:[TARGET]
+site:pastebin.com "credentials"
+intitle:"index of" employees site:[TARGET]
+filetype:pdf "organization chart" site:[TARGET]
+
+# 📡 Network / FTP
+intitle:"index of" ftp site:[TARGET]
+inurl:/cgi-bin/ site:[TARGET]
+intitle:"router login" site:[TARGET]
+intitle:"remote desktop" site:[TARGET]
+"Server at" "port" site:[TARGET]
+
+
+
