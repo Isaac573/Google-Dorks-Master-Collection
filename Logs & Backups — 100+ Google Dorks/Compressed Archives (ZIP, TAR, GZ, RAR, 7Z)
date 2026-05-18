@@ -1,0 +1,13 @@
+filetype:zip "backup" site:[TARGET]
+filetype:zip "database" site:[TARGET]
+filetype:zip "config" site:[TARGET]
+filetype:zip "password" site:[TARGET]
+filetype:tar "backup" site:[TARGET]
+filetype:tar "sql" site:[TARGET]
+filetype:gz "database" site:[TARGET]
+filetype:gz "config" site:[TARGET]
+filetype:rar "backup" site:[TARGET]
+filetype:7z "sql" site:[TARGET]
+
+
+##  (10 examples — expand with variations like “employee”, “finance”, “project”, “system" to reach 20+.)
