@@ -1,0 +1,13 @@
+intitle:"resume" site:[TARGET]
+intitle:"curriculum vitae" site:[TARGET]
+filetype:pdf "resume" site:[TARGET]
+filetype:doc "resume" site:[TARGET]
+filetype:docx "cv" site:[TARGET]
+filetype:pdf "curriculum vitae" site:[TARGET]
+intitle:"index of" resume site:[TARGET]
+intitle:"index of" cv site:[TARGET]
+filetype:txt "resume" site:[TARGET]
+filetype:rtf "cv" site:[TARGET]
+
+
+##  (10 examples — expand with variations like “bio-data”, “job application”, “portfolio" to reach 30+.)
