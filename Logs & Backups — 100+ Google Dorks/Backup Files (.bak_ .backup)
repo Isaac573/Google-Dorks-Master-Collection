@@ -1,0 +1,13 @@
+filetype:bak "password" site:[TARGET]
+filetype:bak "database" site:[TARGET]
+filetype:bak "sql" site:[TARGET]
+filetype:bak "config" site:[TARGET]
+filetype:bak "user" site:[TARGET]
+filetype:bak "admin" site:[TARGET]
+filetype:bak "mail" site:[TARGET]
+filetype:bak "ftp" site:[TARGET]
+filetype:bak "auth" site:[TARGET]
+filetype:bak "backup" site:[TARGET]
+
+
+##  (10 examples — expand with keywords like “finance”, “employee”, “project”, “system" to reach 20+.)
