@@ -1,0 +1,13 @@
+filetype:ini "mailserver" site:[TARGET]
+filetype:ini "smtp" site:[TARGET]
+filetype:ini "password" site:[TARGET]
+filetype:ini "config" site:[TARGET]
+filetype:ini "database" site:[TARGET]
+filetype:ini "ftp" site:[TARGET]
+filetype:ini "proxy" site:[TARGET]
+filetype:ini "auth" site:[TARGET]
+filetype:ini "credentials" site:[TARGET]
+filetype:ini "server" site:[TARGET]
+
+
+##  (10 examples — expand with IT service keywords to reach 20+.)
