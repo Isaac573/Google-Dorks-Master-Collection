@@ -1,0 +1,15 @@
+# ⚠️ Disclaimer
+# For educational and authorised use only.
+# ------------------------------------------------------------
+# ☁️ Cloud Misconfigurations #
+
+intitle:"index of" "s3 bucket" site:[TARGET]
+inurl:"firebaseio.com" "database" site:[TARGET]
+intitle:"Elasticsearch" "cluster" site:[TARGET]
+filetype:json "AWS_ACCESS_KEY_ID" site:[TARGET]
+intitle:"GitLab" "sign in" site:[TARGET]
+filetype:yaml "cloud" site:[TARGET]
+filetype:xml "aws_secret" site:[TARGET]
+intitle:"Kibana" "Dashboard" site:[TARGET]
+inurl:"/minio/" site:[TARGET]
+intitle:"OpenStack Horizon" site:[TARGET]

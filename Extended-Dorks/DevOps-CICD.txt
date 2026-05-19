@@ -1,0 +1,15 @@
+# ⚠️ Disclaimer
+# For educational and authorised use only.
+# ------------------------------------------------------------
+# ⚙️ DevOps / CI-CD #
+
+intitle:"Jenkins Dashboard" site:[TARGET]
+intitle:"GitLab CI" site:[TARGET]
+intitle:"TeamCity" site:[TARGET]
+intitle:"Travis CI" site:[TARGET]
+intitle:"Trello" "index of" site:[TARGET]
+intitle:"CircleCI" site:[TARGET]
+intitle:"Drone CI" site:[TARGET]
+intitle:"Bamboo Continuous Integration" site:[TARGET]
+intitle:"SonarQube" site:[TARGET]
+intitle:"Kubernetes Dashboard" site:[TARGET]

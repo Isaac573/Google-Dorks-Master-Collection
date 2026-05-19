@@ -1,0 +1,15 @@
+# ⚠️ Disclaimer
+# For educational and authorised use only.
+# ------------------------------------------------------------
+# 📷 IoT / Cameras #
+
+intitle:"webcamXP" site:[TARGET]
+inurl:view/view.shtml site:[TARGET]
+intitle:"IP camera" site:[TARGET]
+intitle:"Network Camera" site:[TARGET]
+intitle:"Live View / - AXIS" site:[TARGET]
+intitle:"Surveillance System" site:[TARGET]
+intitle:"DVR login" site:[TARGET]
+intitle:"NetCam" site:[TARGET]
+intitle:"Remote Monitoring" site:[TARGET]
+intitle:"CCTV" site:[TARGET]

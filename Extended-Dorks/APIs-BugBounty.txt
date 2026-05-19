@@ -1,0 +1,15 @@
+# ⚠️ Disclaimer
+# For educational and authorised use only.
+# ------------------------------------------------------------
+# 🔑 APIs / Bug Bounty #
+
+intitle:"Swagger UI" site:[TARGET]
+intitle:"GraphQL Playground" site:[TARGET]
+inurl:"/api/v1/" site:[TARGET]
+filetype:json "access_token" site:[TARGET]
+intitle:"REST API Explorer" site:[TARGET]
+inurl:"/api-docs" site:[TARGET]
+intitle:"OpenAPI Specification" site:[TARGET]
+filetype:yaml "api_key" site:[TARGET]
+intitle:"Postman Collection" site:[TARGET]
+inurl:"/developer/api" site:[TARGET]
