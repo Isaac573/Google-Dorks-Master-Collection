@@ -14,7 +14,7 @@
 
 Here’s how your master file should look — one query per line, ready to copy‑paste. I’ll give you a **sample from each category**; you can expand to 600+ by following the same format.
 
-```text
+
 # 📁 File Discovery
 filetype:pdf "confidential" site:[TARGET]
 filetype:docx "password" site:[TARGET]
@@ -22,7 +22,7 @@ filetype:xls "email" site:[TARGET]
 filetype:ppt "internal" site:[TARGET]
 filetype:txt "api_key" site:[TARGET]
 
-# 🔒 Login & Admin Pages
+# 🔒 Login & Admin Access
 intitle:"login" site:[TARGET]
 inurl:wp-login.php site:[TARGET]
 inurl:admin/login site:[TARGET]
@@ -64,5 +64,50 @@ intitle:"router login" site:[TARGET]
 intitle:"remote desktop" site:[TARGET]
 "Server at" "port" site:[TARGET]
 
+# ☁️ Cloud Misconfigs
+intitle:"index of" "s3 bucket" site:[TARGET]
+inurl:"firebaseio.com" "database" site:[TARGET]
+intitle:"Elasticsearch" "cluster" site:[TARGET]
+filetype:json "AWS_ACCESS_KEY_ID" site:[TARGET]
+intitle:"GitLab" "sign in" site:[TARGET]
+filetype:yaml "cloud" site:[TARGET]
+filetype:xml "aws_secret" site:[TARGET]
+intitle:"Kibana" "Dashboard" site:[TARGET]
+inurl:"/minio/" site:[TARGET]
+intitle:"OpenStack Horizon" site:[TARGET]
 
+# 📷 IoT Cameras
+intitle:"webcamXP" site:[TARGET]
+inurl:view/view.shtml site:[TARGET]
+intitle:"IP camera" site:[TARGET]
+intitle:"Network Camera" site:[TARGET]
+intitle:"Live View / - AXIS" site:[TARGET]
+intitle:"Surveillance System" site:[TARGET]
+intitle:"DVR login" site:[TARGET]
+intitle:"NetCam" site:[TARGET]
+intitle:"Remote Monitoring" site:[TARGET]
+intitle:"CCTV" site:[TARGET]
 
+# 🔑 APIs / Bug Bounty
+intitle:"Swagger UI" site:[TARGET]
+intitle:"GraphQL Playground" site:[TARGET]
+inurl:"/api/v1/" site:[TARGET]
+filetype:json "access_token" site:[TARGET]
+intitle:"REST API Explorer" site:[TARGET]
+inurl:"/api-docs" site:[TARGET]
+intitle:"OpenAPI Specification" site:[TARGET]
+filetype:yaml "api_key" site:[TARGET]
+intitle:"Postman Collection" site:[TARGET]
+inurl:"/developer/api" site:[TARGET]
+
+# ⚙️ DevOps / CI-CD
+intitle:"Jenkins Dashboard" site:[TARGET]
+intitle:"GitLab CI" site:[TARGET]
+intitle:"TeamCity" site:[TARGET]
+intitle:"Travis CI" site:[TARGET]
+intitle:"Trello" "index of" site:[TARGET]
+intitle:"CircleCI" site:[TARGET]
+intitle:"Drone CI" site:[TARGET]
+intitle:"Bamboo Continuous Integration" site:[TARGET]
+intitle:"SonarQube" site:[TARGET]
+intitle:"Kubernetes Dashboard" site:[TARGET]
